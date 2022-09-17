@@ -41,6 +41,27 @@ This project also demonstrates:
 
 * a typcial React project layout structure
 
+**Screenshots:**
+Landing Page:
+
+![](documentationResources/bus.gif)
+
+Signing In Page:
+
+![](documentationResources/signin.png)
+
+Bus Selection Page:
+
+![](documentationResources/bus-page.png)
+
+Seat Selection Page:
+
+![](documentationResources/seatSelection.gif)
+
+Payment & Confirmation Page:
+![](documentationResources/payment.gif)
+---
+
 ## Developed With
 
 * [Visual Studio Code](https://code.visualstudio.com/) - A source code editor developed by Microsoft for Windows, Linux and macOS. It includes support for debugging, embedded Git control, syntax highlighting, intelligent code completion, snippets, and code refactoring
